@@ -23,9 +23,18 @@ For each unchecked list entry:
 
 After adding items, verify that the complete set is available for delivery within the next three calendar days. It is permitted to select the cart and proceed to the checkout page only to inspect delivery slots. Do not reserve a slot, apply payment, or click `PLACE ORDER NOW`. Return to the cart afterward and leave the items unselected.
 
+Before responding to the user, create `logs/redmart-YYYY-MM-DD-HHMMSS.md` using the current local timestamp. Create this report even if an issue prevents the shopping run from completing. Include:
+
+- A `Shopping report` heading with the run timestamp.
+- Every grocery product added during this run, with its RedMart product name, quantity or package size, displayed unit price, and line total in SGD.
+- The total price in SGD, calculated from the added products' line totals.
+- An `Issues` section listing unavailable or omitted items, quantity or packaging adjustments, delivery availability problems, and any other errors or incomplete steps. Write `None` when there were no issues.
+- Explicit confirmation that no purchase was made.
+
 Report:
 
 - The number of distinct products and total units added.
+- The path to the shopping report.
 - Quantity or packaging adjustments.
 - The earliest delivery date on which all carted products are available.
 - Any unavailable or omitted list entries.

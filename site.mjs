@@ -51,9 +51,8 @@ function page(title, content, description = "A growing collection of Osborne fam
     <link rel="stylesheet" href="/site.css">
   </head>
   <body>
-    <header class="site-header"><a class="wordmark" href="/">The Osborne Kitchen</a></header>
+    <header class="site-header"><a class="wordmark" href="/">Osborne Recipes</a></header>
     <main>${content}</main>
-    <footer>Made for the recipes worth keeping.</footer>
   </body>
 </html>`;
 }
@@ -149,12 +148,10 @@ async function build() {
     .join("\n");
 
   const home = `<section class="hero">
-      <p class="eyebrow">The Osborne Kitchen</p>
-      <h1>Recipes for the everyday table.</h1>
-      <p>A growing collection of family favorites, simple dinners, and things worth making again.</p>
+      <p class="eyebrow">Osborne Recipes</p>
     </section>
     <section class="recipe-grid" aria-label="Recipes">${cards}</section>`;
-  await writeFile(path.join(outputDirectory, "index.html"), page("The Osborne Kitchen | Recipes", home));
+  await writeFile(path.join(outputDirectory, "index.html"), page("Osborne Recipes | Recipes", home));
 
   await Promise.all(
     recipes.map(async (recipe) => {
@@ -163,7 +160,7 @@ async function build() {
       await writeFile(
         path.join(directory, "index.html"),
         page(
-          `${recipe.title} | The Osborne Kitchen`,
+          `${recipe.title} | Osborne Recipes`,
           `<article class="recipe"><a class="back-link" href="/">All recipes</a>${recipe.html}</article>`,
           recipe.title,
         ),
@@ -173,7 +170,7 @@ async function build() {
 
   await writeFile(
     path.join(outputDirectory, "404.html"),
-    page("Page not found | The Osborne Kitchen", '<section class="not-found"><h1>Page not found.</h1><p><a href="/">Return to all recipes</a></p></section>'),
+    page("Page not found | Osborne Recipes", '<section class="not-found"><h1>Page not found.</h1><p><a href="/">Return to all recipes</a></p></section>'),
   );
   console.log(`Built ${recipes.length} recipes in ${outputDirectory}.`);
 }
