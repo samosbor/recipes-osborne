@@ -147,9 +147,7 @@ async function build() {
     )
     .join("\n");
 
-  const home = `<section class="hero">
-      <p class="eyebrow">Osborne Recipes</p>
-    </section>
+  const home = `
     <section class="recipe-grid" aria-label="Recipes">${cards}</section>`;
   await writeFile(path.join(outputDirectory, "index.html"), page("Osborne Recipes | Recipes", home));
 
