@@ -1,7 +1,7 @@
 # One-Pot Chicken Fajita Rice Skillet
 0032
 
-![One-Pot Chicken Fajita Rice Skillet](../images/0032_chicken_fajita_rice_skillet.png)
+![One-Pot Chicken Fajita Rice Skillet](../images/0032_chicken_fajita_rice_skillet.jpg)
 
 ## Ingredients
 

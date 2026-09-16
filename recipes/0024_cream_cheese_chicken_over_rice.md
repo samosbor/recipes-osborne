@@ -1,7 +1,7 @@
 # Cream Cheese Chicken Over Rice
 0024
 
-![Cream Cheese Chicken Over Rice](../images/0024_cream_cheese_chicken_over_rice.png)
+![Cream Cheese Chicken Over Rice](../images/0024_cream_cheese_chicken_over_rice.jpg)
 
 ## Ingredients
 

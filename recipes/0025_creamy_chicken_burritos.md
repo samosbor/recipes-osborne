@@ -1,7 +1,7 @@
 # Creamy Chicken Burritos
 0025
 
-![Creamy Chicken Burritos](../images/0025_creamy_chicken_burritos.png)
+![Creamy Chicken Burritos](../images/0025_creamy_chicken_burritos.jpg)
 
 ## Ingredients
 

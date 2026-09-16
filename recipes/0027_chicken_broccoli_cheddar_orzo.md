@@ -1,7 +1,7 @@
 # Chicken Broccoli Cheddar Orzo
 0027
 
-![Chicken Broccoli Cheddar Orzo](../images/0027_chicken_broccoli_cheddar_orzo.png)
+![Chicken Broccoli Cheddar Orzo](../images/0027_chicken_broccoli_cheddar_orzo.jpg)
 
 ## Ingredients
 

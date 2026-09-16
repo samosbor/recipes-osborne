@@ -1,7 +1,7 @@
 # One-Pot Unstuffed Peppers
 0029
 
-![One-Pot Unstuffed Peppers](../images/0029_one_pot_unstuffed_peppers.png)
+![One-Pot Unstuffed Peppers](../images/0029_one_pot_unstuffed_peppers.jpg)
 
 ## Ingredients
 

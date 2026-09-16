@@ -1,7 +1,7 @@
 # Cheesy Shells
 0023
 
-![Cheesy Shells](../images/0023_cheesy_shells.png)
+![Cheesy Shells](../images/0023_cheesy_shells.jpg)
 
 ## Ingredients
 

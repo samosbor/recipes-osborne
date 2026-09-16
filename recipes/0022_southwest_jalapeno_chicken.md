@@ -1,7 +1,7 @@
 # Southwest Jalapeno Chicken
 0022
 
-![Southwest Jalapeno Chicken](../images/0022_southwest_jalapeno_chicken.png)
+![Southwest Jalapeno Chicken](../images/0022_southwest_jalapeno_chicken.jpg)
 
 ## Ingredients
 

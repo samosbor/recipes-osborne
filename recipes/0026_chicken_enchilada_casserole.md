@@ -1,7 +1,7 @@
 # Chicken Enchilada Casserole
 0026
 
-![Chicken Enchilada Casserole](../images/0026_chicken_enchilada_casserole.png)
+![Chicken Enchilada Casserole](../images/0026_chicken_enchilada_casserole.jpg)
 
 ## Ingredients
 

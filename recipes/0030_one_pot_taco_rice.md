@@ -1,7 +1,7 @@
 # One-Pot Taco Rice
 0030
 
-![One-Pot Taco Rice](../images/0030_one_pot_taco_rice.png)
+![One-Pot Taco Rice](../images/0030_one_pot_taco_rice.jpg)
 
 ## Ingredients
 

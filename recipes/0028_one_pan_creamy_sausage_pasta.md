@@ -1,7 +1,7 @@
 # One-Pan Creamy Sausage Pasta
 0028
 
-![One-Pan Creamy Sausage Pasta](../images/0028_creamy_sausage_pasta.png)
+![One-Pan Creamy Sausage Pasta](../images/0028_creamy_sausage_pasta.jpg)
 
 ## Ingredients
 

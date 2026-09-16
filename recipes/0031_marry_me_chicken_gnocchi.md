@@ -1,7 +1,7 @@
 # One-Pot Marry Me Chicken Gnocchi
 0031
 
-![One-Pot Marry Me Chicken Gnocchi](../images/0031_marry_me_chicken_gnocchi.png)
+![One-Pot Marry Me Chicken Gnocchi](../images/0031_marry_me_chicken_gnocchi.jpg)
 
 ## Ingredients
 
